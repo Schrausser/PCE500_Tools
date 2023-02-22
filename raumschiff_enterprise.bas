@@ -1,5 +1,5 @@
 501: REM ********************************************
-501: REM    Abschussspiel Raumshiff Enterprise
+501: REM    Abschussspiel Raumschiff Enterprise
 502: REM      von Dietmar Schrausser (c)1992
 508: REM ********************************************
 509: CLS
